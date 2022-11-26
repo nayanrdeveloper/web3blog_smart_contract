@@ -1,0 +1,32 @@
+{
+  "name": "web3blog_smart_contract",
+  "version": "1.0.1",
+  "description": "Webblog smart contract deploy on polygon mumbai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayanrdeveloper/web3blog_smart_contract.git"
+  },
+  "keywords": [
+    "web3blog",
+    "samrt",
+    "contract",
+    "blockchain",
+    "hardhat"
+  ],
+  "author": "Nayan Radadiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayanrdeveloper/web3blog_smart_contract/issues"
+  },
+  "homepage": "https://github.com/nayanrdeveloper/web3blog_smart_contract#readme",
+  "dependencies": {
+    "hardhat": "^2.12.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
